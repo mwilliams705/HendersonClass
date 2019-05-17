@@ -1,1 +1,7 @@
-print('u = user')
+readme ='''
+u = user
+a = assignment
+l = loser
+'''
+
+print(readme)
